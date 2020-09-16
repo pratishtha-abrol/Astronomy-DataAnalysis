@@ -1,5 +1,6 @@
-# Crossmatching
-A key technique in Data Driven Astronomy 
+# Data Analysis Techniques in Astronomy
+
+## CrossMatching
 
 When investigating astronomical objects, like **active galactic nuclei (AGN)**, astronomers compare data about those objects from different telescopes at different wavelengths. This requires positional cross-matching to find the closest counterpart within a given radius on the sky.
 
